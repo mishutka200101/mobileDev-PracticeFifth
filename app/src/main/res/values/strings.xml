@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Practice5</string>
+    <item name="listView" type="id" />
+</resources>
